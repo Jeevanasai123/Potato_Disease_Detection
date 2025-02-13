@@ -24,7 +24,7 @@ Technologies Used
 Installation
 
 Clone this repository to your local machine:
-  git clone https://github.com/nakkeri-vivek/Potato_Disease_Detection.git
+  git clone https://github.com/Jeevanasai123/potato_leaf_disease_prediction
 
 Navigate to the project directory:
   cd potato-leaf-disease-detection
@@ -60,13 +60,7 @@ Step 4 : Click on Predict button to predict
  
 You will see the prediction
 
-![Screenshot 2025-02-13 230735](https://github.com/user-attachments/assets/1e5a58ef-4a94-4395-968a-365aec72da0a)
- 
-![Screenshot 2025-02-13 230913](https://github.com/user-attachments/assets/5f969a6c-23ee-4c4b-aea8-de6c6981b623)
 
-![Screenshot 2025-02-13 230941](https://github.com/user-attachments/assets/fac8f575-6ded-4d1e-9a1f-db9fc742ce9d)
-
-![Screenshot 2025-02-13 230913](https://github.com/user-attachments/assets/75529960-db85-44ea-913e-2932bf6b2da9)
 
 
 
